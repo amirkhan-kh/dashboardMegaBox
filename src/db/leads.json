@@ -1,0 +1,18 @@
+{
+  "leads": [
+    {
+      "id": "1724544523379",
+      "customer": "alllallla",
+      "email": "camlaaapa",
+      "phone": "123456465",
+      "status": true
+    },
+    {
+      "id": "1724544967855",
+      "customer": "hammma",
+      "email": "ahaataf",
+      "phone": "11334466779",
+      "status": true
+    }
+  ]
+}
